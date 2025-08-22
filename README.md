@@ -7,17 +7,17 @@
 ---
 
 ## 🧑‍💻 About Me  
-- Currently pursuing **MSc Bioinformatics** at the **College of Medical and Dental Sciences, University of Birmingham**.  
-- Master's thesis: **MRI analysis of paediatric brain tumours** using advanced ML (with Birmingham Children’s Hospital).  
-- Experienced in **CT image segmentation pipelines (UNet, ResNet18 encoders, MoCo/SimCLR pretraining)**.  
-- Skilled in **Generative AI for medical imaging** (image enhancement, data augmentation, synthetic dataset generation).  
-- Proficient in **Python, PyTorch, R, Bash/Linux, and ML/DL frameworks**.  
+I am currently pursuing **MSc Bioinformatics** at the **College of Medical and Dental Sciences, University of Birmingham**. My master’s thesis focuses on **MRI analysis of paediatric brain tumours** using advanced machine learning techniques, in collaboration with Birmingham Children’s Hospital.  
+
+I have experience in building **CT image segmentation pipelines** using UNet with ResNet18 encoders pretrained with MoCo or SimCLR. I am also skilled in **Generative AI for medical imaging**, including image enhancement, data augmentation, and synthetic dataset generation.  
+
+**Technical Skills:** Python, PyTorch, R, Bash/Linux, MATLAB, Machine Learning & Deep Learning frameworks.  
 
 ---
 
 ## 🚀 Research Interests  
 - AI for **Medical Imaging** (MRI & CT segmentation)  
-- **Brain Tumour Analysis** with radiogenomics integration 
+- **Brain Tumour Analysis** with radiogenomics integration  
 - **High-throughput Genomics & Multi-omics** data analysis  
 - **Supervised, Semi-supervised & Unsupervised Machine Learning**  
 
@@ -65,7 +65,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
 
 - CT & MRI segmentation pipelines (UNet, ResNet18 encoders, MoCo/SimCLR pretraining)  
-- Generative AI (GANs, Diffusion models) for medical imaging & data augmentation  
+- Generative AI (GANs, Diffusion models) for CT data augmentation  
 
 ---
 
@@ -85,9 +85,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 
 - Portfolio of coding contributions: [github.com/g-Poulami](https://github.com/g-Poulami)  
-- Repositories are currently private due to ongoing research, but can be made accessible if required.  
-
----
+- **Note:** Repositories are currently private due to ongoing research, but code can be shared upon request.  
 
 ---
 
@@ -98,4 +96,5 @@
 - 🖥️ [GitHub](https://github.com/g-Poulami)  
 
 ---
-✨ *“Using AI and Generative Models to advance medical imaging and improve healthcare outcomes.”*  
+
+✨ *“Using AI and Generative Models to advance medical imaging and improve healthcare outcomes.”*
