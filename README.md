@@ -7,7 +7,7 @@
 ---
 
 ## 🧑‍💻 About Me  
-I am currently pursuing **MSc Bioinformatics** at the **College of Medical and Dental Sciences, University of Birmingham**. My master’s thesis focuses on **MRI analysis of paediatric brain tumours** using advanced machine learning techniques, in collaboration with Birmingham Children’s Hospital.  
+I am currently pursuing **MSc Bioinformatics** at the **College of Medical, University of Birmingham**. My master’s thesis focuses on **MRI analysis of paediatric brain tumours** using advanced machine learning techniques, in collaboration with Birmingham Children’s Hospital.  
 
 I have experience in building **CT image segmentation pipelines** using UNet with ResNet18 encoders pretrained with MoCo or SimCLR. I am also skilled in **Generative AI for medical imaging**, including image enhancement, data augmentation, and synthetic dataset generation.  
 
