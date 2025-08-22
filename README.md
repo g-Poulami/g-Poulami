@@ -25,8 +25,7 @@ I have experience in building **CT image segmentation pipelines** using UNet wit
 
 ## 📂 Featured Projects  
 - 🧠 **[Paediatric Brain Tumour MRI Analysis](#)** – Advanced ML on MRI scans (MSc thesis)  
-- 🦴 **[CT Image Segmentation Pipeline](#)** – UNet + MoCo/SimCLR pretrained encoders; includes preprocessing (CLAHE), augmentations, BCE+Dice loss, Dice/IoU metrics, and visualization of overlays  
-- 🤖 **[Generative AI for Medical Imaging](#)** – Using GANs & Diffusion models for CT/MRI data augmentation and synthetic dataset creation  
+- 🦴 **[CT Image Segmentation Pipeline](#)** – UNet + MoCo/SimCLR pretrained encoders; includes preprocessing (CLAHE), augmentations, BCE+Dice loss, Dice/IoU metrics, and visualization of overlays   
 - 🧬 **[Cancer Genomics Across Ethnic Groups](#)** – Group project on COSMIC signatures & cancer mutation patterns  
 - 🦠 **[Microsatellite Analysis in Ancient Humans & Coronaviridae](#)** – Published & preprint work in genomics  
 
