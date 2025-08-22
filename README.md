@@ -17,8 +17,7 @@
 
 ## 🚀 Research Interests  
 - AI for **Medical Imaging** (MRI & CT segmentation)  
-- **Brain Tumour Analysis** with radiogenomics integration  
-- **Generative AI for Medical Imaging** (data augmentation, synthetic imaging, image-to-image translation)  
+- **Brain Tumour Analysis** with radiogenomics integration 
 - **High-throughput Genomics & Multi-omics** data analysis  
 - **Supervised, Semi-supervised & Unsupervised Machine Learning**  
 
