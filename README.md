@@ -1,6 +1,6 @@
 # Hi, I'm Poulami Ghosh 👋  
 
-🎓 MSc Bioinformatics Student | University of Birmingham  
+🎓 Bioinformatics Student | University of Birmingham  
 🔬 Researcher in Medical Imaging, AI, and Cancer Genomics  
 💡 Passionate about using Machine Learning, Deep Learning & Generative AI for Healthcare  
 
