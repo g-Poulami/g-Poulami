@@ -1,96 +1,54 @@
-# Hi, I'm Poulami Ghosh 👋  
+# Hi there 👋, I'm Poulami Ghosh  
 
-🎓 Bioinformatics Student | University of Birmingham  
-🔬 Researcher in Medical Imaging, AI, and Cancer Genomics  
-💡 Passionate about using Machine Learning, Deep Learning & Generative AI for Healthcare  
+I am a skilled **Bioinformatician and Data Analyst** with a passion for integrating multi-omics data and applying advanced machine learning methods to complex biological problems. My work focuses on developing **scalable and reproducible workflows** to characterize genomic sequence variation and support data-driven research.  
 
 ---
 
-## 🧑‍💻 About Me  
-I am currently pursuing **MSc Bioinformatics** at the **College of Medicine and Health, University of Birmingham**. My master’s thesis focuses on **MRI analysis of paediatric brain tumours** using advanced machine learning techniques, in collaboration with Birmingham Children’s Hospital.   
-
-**Technical Skills:** Python, PyTorch, R, Bash/Linux, MATLAB, Machine Learning & Deep Learning frameworks.  
-
----
-
-## 🚀 Research Interests  
-- AI for **Medical Imaging** (MRI & CT segmentation)  
-- **Brain Tumour Analysis** with radiogenomics integration  
-- **High-throughput Genomics & Multi-omics** data analysis  
-- **Supervised, Semi-supervised & Unsupervised Machine Learning**  
+## 👩‍💻 About Me  
+- 🎓 Currently pursuing my **MSc in Bioinformatics** at the **University of Birmingham**.  
+  - Thesis: *Analysis of paediatric brain tumour MRI data using advanced machine learning methods* (in collaboration with Birmingham Children’s Hospital).  
+- 🧪 Former **Project Associate** at the **Council of Scientific and Industrial Research – Indian Institute of Chemical Biology**, where I worked on **platform integration for high-throughput multi-omics data analysis**.  
+- 🌐 Skilled in supporting **computational pipelines** with robust solutions, including **Linux-based servers, bash scripting, and web development**.  
 
 ---
 
-## 📂 Featured Projects  
-- 🧠 **[Paediatric Brain Tumour MRI Analysis](#)** – Advanced ML on MRI scans (MSc thesis)   
-- 🧬 **[Cancer Genomics Across Ethnic Groups](#)** – Group project on COSMIC signatures & cancer mutation patterns  
-- 🦠 **[Microsatellite Analysis in Ancient Humans & Coronaviridae](#)** – Published & preprint work in genomics  
+## 📚 Education  
+- **MSc Bioinformatics (2024–Present)** – University of Birmingham, UK  
+- **M.Tech Computer Technology (2019–2022, First Class, 80.90%)** – Jadavpur University, Kolkata, India  
 
 ---
 
-## 📄 Publications  
-- **Characterization of Simple Sequence Repeats in Ancient Human Mitochondrial Genome** – *Springer, 2022*  
-- **Microsatellites in Coronaviridae** – *Preprint, 2024*  
+## 🔬 Research & Projects  
+- 🧠 **MRI Analysis of Paediatric Brain Tumours** (MSc Thesis)  
+  - Application of advanced machine learning for medical imaging analysis.  
+  - Collaboration with **Birmingham Children’s Hospital**.  
+
+- 🦠 **Genomics Detection of Bacterial Promoters and Microsatellites in Ancient Humans & Coronaviridae** (M.Tech Thesis)  
+  - Developed computational methods for genomic sequence analysis.  
 
 ---
 
-## 🎤 Conferences & Outreach  
-- Poster presenter – **11th International Conference on Public Health (2025)**  
-- Delegate – **1st Brain Tumour Network Symposium, Birmingham (2025)** (AI in brain tumour research & patient family interactions)  
-- Poster presenter – **Proteomics Society India Conference (2022)**  
+## 📝 Publications  
+- Ghosh P. and Sarkar A. (2022). *Characterization of Simple Sequence Repeats: Evolutionary Implications from Ancient Human Mitochondrial Genome.*  
+  Communications in Computer and Information Science series, vol. 1695, Springer Nature.  
+
+- Ghosh P. and Sarkar A. (2024). *Identification and analysis of microsatellites in Coronaviridae.* (preprint)  
 
 ---
 
-## 🛠️ Skills & Tools  
-
-### 👩‍💻 Programming & Development  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  
-![MATLAB](https://img.shields.io/badge/MATLAB-FF8200?style=flat&logo=mathworks&logoColor=white)  
-
-- Data structures & algorithms  
-- Database management systems (DBMS)  
-- Machine learning & deep learning model development  
+## 🛠️ Skills  
+- **Data Analysis:** Statistics, Bioinformatics, High-throughput Multi-omics Data  
+- **Machine Learning:** Supervised, Semi-supervised, and Unsupervised Algorithms  
+- **Medical Imaging:** MRI Segmentation, Generative AI (GANs, Diffusion Models)  
+- **Genomics:** Sequence Variation, Reproducible Computational Workflows  
+- **Systems & Tools:** Python, R, PyTorch, Bash, Linux, Docker, Git, Web Development  
 
 ---
 
-### 🔬 AI & Machine Learning Frameworks  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-
-- CT & MRI segmentation pipelines (UNet, ResNet18 encoders, MoCo/SimCLR pretraining)  
-- Generative AI (GANs, Diffusion models) for CT data augmentation  
-
----
-
-### 💻 Systems & Scripting  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-
-- Proficient in **Linux-based server environments**  
-- Experienced with **bash scripting** for workflow automation & HPC tasks  
-- Skilled in managing **large-scale datasets on servers** and deploying pipelines  
-
----
-
-### 🌐 Version Control & Collaboration  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-
-- Portfolio of coding contributions: [github.com/g-Poulami](https://github.com/g-Poulami)  
-- **Note:** Repositories are currently private due to ongoing research, but code can be shared upon request.  
-
----
-
-## 🌍 Connect with Me  
-- 📧 Email: [pxg491@student.bham.ac.uk](mailto:pxg491@student.bham.ac.uk)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/poulami-ghosh-879439304)  
+## 🔗 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/poulami-ghosh-879439304)  
 - 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=8PGRbS0AAAAJ)  
-- 🖥️ [GitHub](https://github.com/g-Poulami)  
+- 🖥️ [GitHub](https://github.com/g-Poulami) – *Repositories are currently private due to ongoing research, but can be shared on request.*  
 
 ---
-
-✨ *“Using AI and Generative Models to advance medical imaging and improve healthcare outcomes.”*
+✨ *“Using AI, Bioinformatics, and Medical Imaging to drive data-driven healthcare research.”*  
