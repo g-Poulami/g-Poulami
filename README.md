@@ -1,54 +1,106 @@
-# Hi there 👋, I'm Poulami Ghosh  
+# Hi there 👋, I’m Poulami Ghosh  
 
-I am a skilled **Bioinformatician and Data Analyst** with a passion for integrating multi-omics data and applying advanced machine learning methods to complex biological problems. My work focuses on developing **scalable and reproducible workflows** to characterize genomic sequence variation and support data-driven research.  
+I am an **early-career graduate with a background in bioinformatics, data analysis, and machine learning**. I enjoy building **reproducible and scalable computational workflows** and applying them to data-driven research problems across biology and medicine.
 
 ---
 
 ## 👩‍💻 About Me  
-- 🎓 Currently pursuing my **MSc in Bioinformatics** at the **University of Birmingham**.  
-  - Thesis: *Analysis of paediatric brain tumour MRI data using advanced machine learning methods* (in collaboration with Birmingham Children’s Hospital).  
-- 🧪 Former **Project Associate** at the **Council of Scientific and Industrial Research – Indian Institute of Chemical Biology**, where I worked on **platform integration for high-throughput multi-omics data analysis**.  
-- 🌐 Skilled in supporting **computational pipelines** with robust solutions, including **Linux-based servers, bash scripting, and web development**.  
+
+- 🎓 **MSc Bioinformatics graduate (Dec 2025)** from the **University of Birmingham**  
+  - Thesis: *Computational analysis of paediatric brain tumour MRI/MRS data using machine learning*  
+  - Conducted in collaboration with **Birmingham Children’s Hospital**
+
+- 🧪 Former **Project Associate (2022–2024)** at the  
+  **Council of Scientific and Industrial Research – Indian Institute of Chemical Biology (CSIR-IICB)**  
+  - Contributed to **platform integration and data processing workflows** for high-throughput multi-omics research  
+
+- 💻 Interested in developing **robust, well-documented computational solutions** and supporting collaborative, interdisciplinary research  
+
+---
+
+## 🖥️ Compute Environments  
+
+- **Linux-based systems** for research computing and data analysis  
+- **BlueBEAR HPC (University of Birmingham)**  
+  - Executed batch jobs for compute-intensive workflows  
+  - Ran Python-based data processing and machine-learning pipelines  
+- **Baskerville Tier-2 HPC (familiarity)**  
+  - Experience designing workflows transferable to GPU-enabled, shared compute environments  
+- **Cloud computing (conceptual experience)**  
+  - Familiar with AWS concepts including **EC2**, **S3**, and **IAM**  
 
 ---
 
 ## 📚 Education  
-- **MSc Bioinformatics (2024–Present)** – University of Birmingham, UK  
-- **M.Tech Computer Technology (2019–2022, First Class, 80.90%)** – Jadavpur University, Kolkata, India  
+
+- **MSc Bioinformatics (2024–2025)**  
+  *University of Birmingham, UK*  
+
+- **M.Tech Computer Technology (2019–2022, First Class)**  
+  *Jadavpur University, India*  
+
+- **B.Tech Electronics & Communication Engineering (2015–2019, First Class)**  
+  *Maulana Abul Kalam Azad University of Technology, India*  
 
 ---
 
 ## 🔬 Research & Projects  
-- 🧠 **MRI Analysis of Paediatric Brain Tumours** (MSc Thesis)  
-  - Application of advanced machine learning for medical imaging analysis.  
-  - Collaboration with **Birmingham Children’s Hospital**.  
 
-- 🦠 **Genomics Detection of Bacterial Promoters and Microsatellites in Ancient Humans & Coronaviridae** (M.Tech Thesis)  
-  - Developed computational methods for genomic sequence analysis.  
+### 🧠 Medical Imaging Analysis  
+- Applied machine-learning methods to analyse multi-modal MRI and MRS data  
+- Designed reproducible workflows with clear documentation  
+- Executed compute-intensive pipelines on **BlueBEAR HPC**  
+
+### 🦠 Genomics & Sequence Analysis  
+- Developed computational approaches for analysing genomic sequence variation  
+- Worked with bacterial, viral, and ancient human genomic datasets  
+
+### ⚙️ Computational Workflows  
+- Built Python-based pipelines for data processing and analysis  
+- Emphasised reproducibility, modular design, and version control  
+- Designed workflows suitable for shared HPC environments  
 
 ---
 
 ## 📝 Publications  
-- Ghosh P. and Sarkar A. (2022). *Characterization of Simple Sequence Repeats: Evolutionary Implications from Ancient Human Mitochondrial Genome.*  
-  Communications in Computer and Information Science series, vol. 1695, Springer Nature.  
 
-- Ghosh P. and Sarkar A. (2024). *Identification and analysis of microsatellites in Coronaviridae.* (preprint)  
+- **Ghosh P., Sarkar A. (2022)**  
+  *Characterization of Simple Sequence Repeats: Evolutionary Implications from Ancient Human Mitochondrial Genome.*  
+  Springer Nature  
+
+- **Ghosh P., Sarkar A. (2024)**  
+  *Identification and analysis of microsatellites in Coronaviridae.* (preprint)  
 
 ---
 
 ## 🛠️ Skills  
-- **Data Analysis:** Statistics, Bioinformatics, High-throughput Multi-omics Data  
-- **Machine Learning:** Supervised, Semi-supervised, and Unsupervised Algorithms  
-- **Medical Imaging:** MRI Segmentation, Generative AI (GANs, Diffusion Models)  
-- **Genomics:** Sequence Variation, Reproducible Computational Workflows  
-- **Systems & Tools:** Python, R, PyTorch, Bash, Linux, Docker, Git, Web Development  
+
+- **Programming:** Python, foundational C/C++  
+- **Data Analysis:** Bioinformatics, statistics, high-throughput data  
+- **Machine Learning:** Supervised and unsupervised methods  
+- **Systems:** Linux, Bash, Git/GitHub, BlueBEAR HPC  
+- **Cloud & Containers:** Familiarity with AWS concepts and Docker  
+- **Practices:** Reproducible workflows, documentation, collaborative development  
+
+---
+
+## 🌱 Interests  
+
+- Computational research and data-driven discovery  
+- Reproducible and scalable computing  
+- Interdisciplinary collaboration  
+- Continuous learning and skill development  
 
 ---
 
 ## 🔗 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/poulami-ghosh-879439304)  
-- 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=8PGRbS0AAAAJ)  
-- 🖥️ [GitHub](https://github.com/g-Poulami) – *Repositories are currently private due to ongoing research, but can be shared on request.*  
+
+- 💼 LinkedIn: https://www.linkedin.com/in/poulami-ghosh-879439304  
+- 📚 Google Scholar: https://scholar.google.com/citations?hl=en&user=8PGRbS0AAAAJ  
+- 🖥️ GitHub: https://github.com/g-Poulami  
+
+> 🔒 *Some repositories are currently private due to ongoing research and collaborations, but can be shared on request.*
 
 ---
-✨ *“Using AI, Bioinformatics, and Medical Imaging to drive data-driven healthcare research.”*  
+
+✨ *Learning, building, and growing through computational research.*
