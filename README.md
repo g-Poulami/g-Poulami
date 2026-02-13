@@ -24,8 +24,6 @@ I am an **early-career graduate with a background in bioinformatics, data analys
 - **BlueBEAR HPC (University of Birmingham)**  
   - Executed batch jobs for compute-intensive workflows  
   - Ran Python-based data processing and machine-learning pipelines  
-- **Baskerville Tier-2 HPC (familiarity)**  
-  - Experience designing workflows transferable to GPU-enabled, shared compute environments  
 - **Cloud computing (conceptual experience)**  
   - Familiar with AWS concepts including **EC2**, **S3**, and **IAM**  
 
