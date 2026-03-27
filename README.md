@@ -31,7 +31,7 @@ I am an **early-career graduate with a background in bioinformatics, data analys
 
 ## 📚 Education  
 
-- **MSc Bioinformatics (2024–2025)**  
+- **MSc Bioinformatics (2024–2025, Merit)**  
   *University of Birmingham, UK*  
 
 - **M.Tech Computer Technology (2019–2022, First Class)**  
@@ -62,13 +62,12 @@ I am an **early-career graduate with a background in bioinformatics, data analys
 
 ## 📝 Publications  
 
-- **Ghosh P., Sarkar A. (2022)**  
-  *Characterization of Simple Sequence Repeats: Evolutionary Implications from Ancient Human Mitochondrial Genome.*  
-  Springer Nature  
-
-- **Ghosh P., Sarkar A. (2024)**  
-  *Identification and analysis of microsatellites in Coronaviridae.* (preprint)  
-
+- **Apps J.R., Mulvany T., Burling S., Worthington L., Tong C., Crombie K., Ghosh P., et al.** (2026). *Imaging of Tumours Study: Past, Present and Future.* Journal of Neuro-Oncology *(submitted)*.
+ 
+- **Ghosh P.** and Sarkar A. (2024). *Identification and analysis of microsatellites in Coronaviridae.* Authorea. DOI: [10.22541/au.172541618.85574447/v1](https://doi.org/10.22541/au.172541618.85574447/v1) *(Preprint)*.
+ 
+- **Ghosh P.** and Sarkar A. (2023). *Characterization of Simple Sequence Repeats: Evolutionary Implications from Ancient Human Mitochondrial Genome.* Communications in Computer and Information Science, vol. 1695, pp. 36–43. Springer Nature. DOI: [10.1007/978-3-031-22485-0_4](https://doi.org/10.1007/978-3-031-22485-0_4).
+ 
 ---
 
 ## 🛠️ Skills  
