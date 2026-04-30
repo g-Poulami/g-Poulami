@@ -27,13 +27,7 @@ I am a computational researcher with expertise in statistical modelling, machine
 *   **[Snakemake-Genomic-Pipeline](https://github.com/g-Poulami/Snakemake-Genomic-Pipeline)**: Demonstrates best practices in platform engineering for large-scale genomic data processing.
 
 ### 🧠 Medical Imaging & AI/ML
-*   **[Brain-Tumor-Segmentation-U-Net](https://github.com/g-Poulami/Brain-Tumor-Segmentation-U-Net)**: Deep learning implementation utilizing U-Net and ResNet for 3D segmentation of paediatric brain tumours.
-*   **[3D-Bone-Segmentation](https://github.com/g-Poulami/3D-Bone-Segmentation)**: Automated 3D segmentation and mesh generation (STL) for fossilized bone CT data using connectivity analysis.
 *   **[Neuroimaging_Dashboard](https://github.com/g-Poulami/Neuroimaging_Dashboard)**: [Live Site](https://g-poulami.github.io/Neuroimaging_Dashboard) visualizing MRI/MRS data and survival analysis for paediatric neuro-oncology research.
-
-### 🛠️ Foundations & Research Frameworks
-*   **[Biometric-Voting-System](https://github.com/g-Poulami/Biometric-Voting-System)**: A C-based authentication system developed during undergraduate research involving fingerprint signal processing.
-*   **[Ancient-human-genomics](https://github.com/g-Poulami/ancient-human-genomics)**: Analysis scripts focusing on simple sequence repeats in ancient human mitochondrial genomes.
 
 ---
 
