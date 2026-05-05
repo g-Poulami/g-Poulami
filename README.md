@@ -19,7 +19,7 @@ I am a computational researcher with expertise in statistical modelling, machine
 
 ## 🚀 Public Repositories & Open-Source Projects
 
-## 🧪 Molecular Generation
+### 🧪 Molecular Generation
 **[Diffusion-Models-for-Molecular-Generation](https://github.com/g-Poulami/Diffusion-Models-for-Molecular-Generation)**
 *   **Goal:** De novo design of molecules using 2D graph diffusion.
 *   **Engineering:** Integrated CI/CD via GitHub Actions to automate chemical validity testing with RDKit.
