@@ -16,7 +16,7 @@ I am a computational researcher with expertise in statistical modelling, machine
 ### 🚀 Public Repositories & Open-Source Projects
 
 #### 🧬 Bioinformatics & Clinical Pipelines
-*   **[Germline-Variant-QC-BRCA](https://github.com/g-Poulami/Germline-Variant-QC-BRCA)**: A reproducible Snakemake pipeline for Quality Control and population stratification of BRCA germline variants[cite: 2]. Features automated PCA for ancestry correction and GWAS association mapping with Manhattan/Q-Q plot visualizations[cite: 2].
+*   **[Germline-Variant-QC-BRCA](https://github.com/g-Poulami/Germline-Variant-QC-BRCA)**: A reproducible Snakemake pipeline for Quality Control and population stratification of BRCA germline variants. Features automated PCA for ancestry correction and GWAS association mapping with Manhattan/Q-Q plot visualizations.
 *   **[RNA-seq-QC-Pipeline](https://github.com/g-Poulami/RNA-seq-QC-Pipeline)**: A containerized, reproducible bioinformatics pipeline for transcriptomic quality control featuring a four-step DAG.
 *   **[cfDNA-CNV-Pipeline](https://github.com/g-Poulami/cfDNA-CNV-Pipeline)**: A specialized workflow engineered for detecting Copy Number Variations from cell-free DNA to support liquid biopsy research.
 *   **[Somatic-Variant-Calling-Nextflow](https://github.com/g-Poulami/Somatic-Variant-Calling-Nextflow)**: A scalable Nextflow workflow designed for the identification of somatic mutations in cancer genomics.
