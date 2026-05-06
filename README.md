@@ -1,3 +1,7 @@
+I have updated your portfolio to include the direct links to each of your GitHub repositories. This makes it much easier for recruiters to navigate your work directly from your profile.
+
+---
+
 ## Poulami Ghosh | Computational Researcher
 **Bioinformatics | Machine Learning | Research Software Engineering**
 
@@ -9,25 +13,25 @@ I am a computational researcher with expertise in statistical modelling, machine
 | :--- | :--- |
 | **Languages** | Python, R, Bash, C/C++, SQL, MATLAB |
 | **Machine Learning** | PyTorch, TensorFlow, Scikit-learn, U-Net, ResNet, SimCLR |
-| **Bioinformatics** | **PLINK**, Nextflow, Snakemake, BWA, STAR, Samtools, Multi-omics integration |
+| **Bioinformatics** | PLINK, Nextflow, Snakemake, BWA, STAR, Samtools, Multi-omics integration |
 | **Infrastructure** | AWS (EC2, S3), Linux/HPC (BlueBEAR), Docker, CI/CD |
-| **Visualization** | Tableau, Chart.js, **ggplot2/qqman**, HTML |
+| **Visualization** | Tableau, Chart.js, ggplot2/qqman, HTML |
 
 ### 🚀 Public Repositories & Open-Source Projects
 
 #### 🧬 Bioinformatics & Clinical Pipelines
-*   **Germline-Variant-QC-BRCA**: A reproducible Snakemake pipeline for Quality Control and population stratification of BRCA germline variants[cite: 2]. Features automated PCA for ancestry correction and GWAS association mapping with Manhattan/Q-Q plot visualizations.
-*   **RNA-seq QC Pipeline**: A containerized, reproducible bioinformatics pipeline for transcriptomic quality control featuring a four-step DAG.
-*   **cfDNA-CNV-Pipeline**: A specialized workflow engineered for detecting Copy Number Variations from cell-free DNA to support liquid biopsy research.
-*   **Somatic-Variant-Calling-Nextflow**: A scalable Nextflow workflow designed for the identification of somatic mutations in cancer genomics.
-*   **Nextflow-RNA-seq-Pipeline**: A high-throughput RNA-seq processing pipeline optimized for reproducible transcriptomic analysis.
-*   **Snakemake-Genomic-Pipeline**: Demonstrates best practices in platform engineering for large-scale genomic data processing.
+*   **[Germline-Variant-QC-BRCA](https://github.com/g-Poulami/Germline-Variant-QC-BRCA)**: A reproducible Snakemake pipeline for Quality Control and population stratification of BRCA germline variants[cite: 2]. Features automated PCA for ancestry correction and GWAS association mapping with Manhattan/Q-Q plot visualizations[cite: 2].
+*   **[RNA-seq-QC-Pipeline](https://github.com/g-Poulami/RNA-seq-QC-Pipeline)**: A containerized, reproducible bioinformatics pipeline for transcriptomic quality control featuring a four-step DAG.
+*   **[cfDNA-CNV-Pipeline](https://github.com/g-Poulami/cfDNA-CNV-Pipeline)**: A specialized workflow engineered for detecting Copy Number Variations from cell-free DNA to support liquid biopsy research.
+*   **[Somatic-Variant-Calling-Nextflow](https://github.com/g-Poulami/Somatic-Variant-Calling-Nextflow)**: A scalable Nextflow workflow designed for the identification of somatic mutations in cancer genomics.
+*   **[Nextflow-RNA-seq-Pipeline](https://github.com/g-Poulami/Nextflow-RNA-seq-Pipeline)**: A high-throughput RNA-seq processing pipeline optimized for reproducible transcriptomic analysis.
+*   **[Snakemake-Genomic-Pipeline](https://github.com/g-Poulami/Snakemake-Genomic-Pipeline)**: Demonstrates best practices in platform engineering for large-scale genomic data processing.
 
 #### 🧪 Molecular Generation
-*   **Diffusion-Models-for-Molecular-Generation**: De novo design of molecules using 2D graph diffusion. Integrated CI/CD via GitHub Actions to automate chemical validity testing with RDKit.
+*   **[Diffusion-Models-for-Molecular-Generation](https://github.com/g-Poulami/Diffusion-Models-for-Molecular-Generation)**: De novo design of molecules using 2D graph diffusion. Integrated CI/CD via GitHub Actions to automate chemical validity testing with RDKit.
 
 #### 🧠 Medical Imaging & AI/ML
-*   **Neuroimaging_Dashboard**: Live site visualizing MRI/MRS data and survival analysis for paediatric neuro-oncology research.
+*   **[Neuroimaging_Dashboard](https://github.com/g-Poulami/Neuroimaging_Dashboard)**: Live site visualizing MRI/MRS data and survival analysis for paediatric neuro-oncology research.
 
 ### 📚 Selected Publications & Presentations
 *   **Journal Article**: Apps J.R., ..., **Ghosh P.**, et al. (2026) "Imaging of Tumours Study: Past, Present and Future." *Journal of Neuro-Oncology* (Submitted).
