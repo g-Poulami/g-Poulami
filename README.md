@@ -1,7 +1,3 @@
-I have updated your portfolio to include the direct links to each of your GitHub repositories. This makes it much easier for recruiters to navigate your work directly from your profile.
-
----
-
 ## Poulami Ghosh | Computational Researcher
 **Bioinformatics | Machine Learning | Research Software Engineering**
 
