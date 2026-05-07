@@ -50,7 +50,6 @@ I am a computational researcher with expertise in statistical modelling, machine
 
 - **[RNA-seq-QC-Pipeline](https://github.com/g-Poulami/RNA-seq-QC-Pipeline)**: A containerized, reproducible bioinformatics pipeline for transcriptomic quality control featuring a four-step DAG.
 
-*See also:* [Nextflow-RNA-seq-Pipeline](https://github.com/g-Poulami/Nextflow-RNA-seq-Pipeline) · [Snakemake-Genomic-Pipeline](https://github.com/g-Poulami/Snakemake-Genomic-Pipeline)
 
 ---
 
