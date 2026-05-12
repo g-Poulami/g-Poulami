@@ -96,5 +96,4 @@ I am interested in the molecular mechanisms that distinguish early-onset and her
 ## Contact & Links
 
 - **LinkedIn**: [linkedin.com/in/poulami-ghosh-879439304](https://linkedin.com/in/poulami-ghosh-879439304)
-- **Google Scholar**: [Poulami Ghosh](https://scholar.google.com/scholar?q=Poulami+Ghosh)
 - **Email**: poulamighosh738@gmail.com
