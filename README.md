@@ -17,7 +17,7 @@ I am interested in the molecular mechanisms that distinguish early-onset and her
 | Category | Skills & Tools |
 | --- | --- |
 | **Languages** | Python, R, Bash, C/C++, SQL, MATLAB |
-| **Machine Learning** | PyTorch, TensorFlow, Scikit-learn, U-Net, ResNet, SimCLR, VAE, CausalPy/DoWhy |
+| **Machine Learning** | PyTorch, TensorFlow, Scikit-learn, U-Net, ResNet, SimCLR, MoCo, VAE, CausalPy/DoWhy |
 | **Bioinformatics** | PLINK, Nextflow DSL2, Snakemake, BWA/BWA-MEM2, STAR, GATK, Samtools, Multi-omics integration |
 | **Infrastructure** | AWS (EC2, S3, RDS, Lambda, KMS), Linux/HPC (BlueBEAR), Docker, Docker Compose, CI/CD |
 | **Visualization** | Tableau, Chart.js, ggplot2/qqman, HTML |
@@ -59,6 +59,10 @@ I am interested in the molecular mechanisms that distinguish early-onset and her
 ---
 
 ### Machine Learning & Statistical Modelling
+
+- **[Simclr-v1-50k-automated-pipeline](https://github.com/roy-arindam-1991/Simclr-v1-50k-automated-pipeline)**: Can visual representations be learned without labels — and how far does self-supervised contrastive learning go on a 50k-sample dataset? End-to-end automated pipeline implementing SimCLR v1 (Chen et al., 2020): stochastic data augmentation, a shared ResNet encoder, an MLP projection head, and NT-Xent contrastive loss optimisation. The pipeline automates training, checkpointing, and linear evaluation on 50,000 samples, providing a reproducible benchmark for label-efficient representation learning.
+
+- **[MoCo-v2-50k-automated-pipeline](https://github.com/roy-arindam-1991/MoCo-v2-50k-automated-pipeline)**: How does Momentum Contrast compare to SimCLR when memory efficiency matters? Automated pipeline implementing MoCo v2 (Chen et al., 2020) — a momentum encoder updated via exponential moving average, a dynamic negative-sample queue of up to 65,536 keys, and an MLP projection head — trained on 50,000 samples. Designed for direct comparison with SimCLR v1 under matched data conditions, enabling controlled evaluation of contrastive learning strategies that differ in memory footprint and batch-size sensitivity.
 
 - **[scVAE-State](https://github.com/g-Poulami/scVAE-State)**: What does the transcriptomic landscape of individual immune cells reveal about cellular state heterogeneity? Deep generative model of single-cell RNA-seq data using a custom PyTorch Variational Autoencoder trained on 10x Genomics PBMC 3k data. Softplus-activated decoder for non-negative count reconstruction; UMAP latent manifold visualisation; immune cell state validation using canonical marker genes (CD3E, MS4A1, LYZ).
 
